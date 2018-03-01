@@ -1,0 +1,24 @@
+####Questions
+>Why would you want to version control your code?
+
+A:You need a version control on your code to help keep yourself organized. This helps a team keep track of code changes over time. This helps if there is a mistake where developers can go back to when the code worked and fix the problem thanks to the logs and organization of the version control
+
+>Where can you find additional information about the Git commands available?
+
+A:I have looked on youtube and watched many videos, these help tremendously. My mentor also sent me a link,https://guides.github.com, which helped also. And just a simple Google search can help you. Here are a few I found
+*https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1361s
+*https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+-http://guides.beanstalkapp.com/version-control/common-git-commands.html
+
+
+>Why are branches useful?
+
+A:Branches are useful because they let you edit the code and work on changes without actually working on the master. These give you time to test your code and make sure there are no flaws before implementing it to the master, the one you know that works. I have done similar things on webpages. When making changes you do not want to make changes right to the webpage code. It is always better to make a copy, edit on the copy and make sure it works, then implement the proven code onto the webpage.
+
+>What is the purpose of a remote?
+
+A: A remote is where the code is stored. These remotes are important because this is the cool way to be able to work with other people on the same project very fast and organized. When you push changes, other people can see them, access them, implement them. You can also pull things you need to work on all simultaniously.
+
+>Why is it important to track changes to the upstream repository after you create your initial fork?
+
+A:This is important because you need to keep your fork up to date with changes being made if you are going to continue working on the project. This will help you get your local up to date with changes that have been made or any updates so you are ready to work on the current project.
